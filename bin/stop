@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/pkill -f /home/wkbaran/webapps/newmoney/bin/node && rm -f /home/wkbaran/webapps/newmoney/run/node.pid

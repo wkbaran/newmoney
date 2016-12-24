@@ -1,0 +1,9 @@
+{
+  "name": "newmoney",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Bot",
+  "main": "index.js",
+  "repository": "https://github.com/wkbaran/newmoney.git",
+  "author": "Bill Baran",
+  "license": "Apache 2.0"
+}
