@@ -7,6 +7,6 @@
   "author": "Bill Baran",
   "license": "Apache-2.0",
   "dependencies": {
-    "http-server": "^0.9.0"
+    "mime": "^1.3.4"
   }
 }
